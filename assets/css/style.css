@@ -57,6 +57,10 @@ nav ul li a:hover {
 }
 
 @media screen and (max-width: 768px) {
+	html{
+		background: url("../pics/Skylinemobile.png") no-repeat center center fixed; 
+	}
+
 	nav ul li a {
 		font-size: 12px;
 
